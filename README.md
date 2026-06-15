@@ -40,6 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+Google link: https://drive.google.com/file/d/1PpiM4qZe3pkrZH-8twh9YshZ968zPnYV/view?usp=sharing
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -52,7 +53,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was fun to build this flashcard game. I added the background and design to relate to the theme this time.
 
 ## License
 
